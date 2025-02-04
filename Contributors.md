@@ -10,6 +10,7 @@
 - [Savvas Fam](https://github.com/sabliran) Hello everyone! :D
 - [Sergi Castarnado](https://github.com/scastarnado)
 - [Vipul Singh](https://github.com/vipulsc)
+- [ryan muiga](https://github.com/RMuchir1)
 - [Nikunj Kakkad](https://github.com/kakkadnikunj)
 - [Mohammad Junaid Abbasi](https://github.com/mjunaid280)
 - [Lestlin Robins](https://github.com/LestlinRobins)
